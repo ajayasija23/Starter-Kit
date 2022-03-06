@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Starter Kit</string>
+    <string name="android_starter_kit">Android Starter Kit</string>
+    <string name="welcome">Welcome,</string>
+    <string name="signin_continue">Sign in to continue!</string>
+    <string name="email_id">Email Id</string>
+    <string name="password">Password</string>
+    <string name="forget_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="new_user">I\'m a new user,</string>
+    <string name="sign_up">Sign up</string>
+    <string name="create_account">Create Account,</string>
+    <string name="get_started">Sign up to get started!</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="mobile_no">Mobile No</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_member">I\'m already a member,</string>
+</resources>
